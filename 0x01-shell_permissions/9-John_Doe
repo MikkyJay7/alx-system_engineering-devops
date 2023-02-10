@@ -1,0 +1,2 @@
+#!/bin/bash
+chnod 753 ./hello
